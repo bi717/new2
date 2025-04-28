@@ -27,7 +27,7 @@ padding: 10px 20px;
 margin: 5px;
 font-size: 16px;
 cursor: pointer;
-border-radius: 5px;
+border-radius: 50px;
 transition: background 0.3s;
 color: white;
 }
@@ -46,7 +46,7 @@ border-radius: 8px;
 border: 1px solid #ccc;
 }
 .recipe {
-background: #f5fff5; /* 更亮一點的綠白色卡片 */
+background: #ffffff; /* 更亮一點的綠白色卡片 */
 border: 2px solid #bfa5ff; /* 淺紫色邊框 */
 border-radius: 10px;
 padding: 15px;
