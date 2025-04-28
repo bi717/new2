@@ -14,7 +14,7 @@ color: #333;
 }
 h1 {
 text-align: center;
-color: #8a4fff; /* 紫色標題 */
+color: #7c4dff; /* 紫色標題 */
 }
 .buttons {
 text-align: center;
@@ -46,9 +46,9 @@ border-radius: 8px;
 border: 1px solid #ccc;
 }
 .recipe {
-background: #ffffff; /* 更亮一點的綠白色卡片 */
+background: #ffffff; /* 更亮一點的白色卡片 */
 border: 2px solid #bfa5ff; /* 淺紫色邊框 */
-border-radius: 10px;
+border-radius: 20px;
 padding: 15px;
 margin: 10px auto;
 max-width: 600px;
